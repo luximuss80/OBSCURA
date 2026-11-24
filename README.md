@@ -11,6 +11,8 @@
 [![Status](https://img.shields.io/badge/STATUS-BETA-orange?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/LANGUAGE-GDScript%20100%25-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](#)
 
+**🌐 BILINGUAL EXPERIENCE — 50% РУССКИЙ · 50% ENGLISH**
+
 *Three tapes. One impossible house. Something is already inside.*
 
 </div>
