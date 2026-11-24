@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/obscura-icon.jpg" alt="OBSCURA logo" width="220">
+
 # OBSCURA
 ## ANALOG HORROR
 
