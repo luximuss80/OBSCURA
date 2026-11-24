@@ -9,6 +9,7 @@
 [![Platform](https://img.shields.io/badge/PLATFORM-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Genre](https://img.shields.io/badge/GENRE-Analog%20%7C%20Psychological%20Horror-7B1FA2?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/STATUS-BETA-orange?style=for-the-badge)](#)
+[![Language](https://img.shields.io/badge/LANGUAGE-GDScript%20100%25-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](#)
 
 *Three tapes. One impossible house. Something is already inside.*
 
@@ -131,7 +132,7 @@ Feedback and bug reports are welcome while the game is in beta.
 
 Created with **[Godot Engine](https://godotengine.org/)**.
 
-AI - Generated
+**AI assistance:** ChatGPT (OpenAI) and Claude (Anthropic).
 
 OBSCURA is an independent horror project. All trademarks and third-party assets remain the property of their respective owners. This game is inspired by the analog horror video "Obelisk - The House With No Windows" by its original creator - Lizardmeninc. The game has no plans to monetize.
 
